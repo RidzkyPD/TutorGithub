@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Lenovo
+ * @author RPD
  */
 public class Tutor2 extends Application {
     
